@@ -24,7 +24,7 @@ It helps families and caregivers stay connected with patients while assisting in
 - RESTful API with JSON responses
 - Designed for mobile healthcare applications
 
----
+----
 
 ## AI Diagnosis
 
